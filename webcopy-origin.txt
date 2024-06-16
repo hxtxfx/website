@@ -1,0 +1,536 @@
+Uri: http://urban-grill.ru/
+File Name: C:\Downloaded Web Sites\urban-grill.ru\index.htm
+Content Type: text/html
+
+Uri: https://fonts.googleapis.com/css2?family=Ubuntu:wght@300;400;500;600;700&subset=latin,cyrillic
+File Name: C:\Downloaded Web Sites\urban-grill.ru\css2
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/ubuntu/v20/4iCs6KVjbNBYlgo6eA.ttf
+File Name: C:\Downloaded Web Sites\urban-grill.ru\s\ubuntu\v20\4iCs6KVjbNBYlgo6eA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/ubuntu/v20/4iCv6KVjbNBYlgoC1CzTtw.ttf
+File Name: C:\Downloaded Web Sites\urban-grill.ru\s\ubuntu\v20\4iCv6KVjbNBYlgoC1CzTtw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/ubuntu/v20/4iCv6KVjbNBYlgoCjC3Ttw.ttf
+File Name: C:\Downloaded Web Sites\urban-grill.ru\s\ubuntu\v20\4iCv6KVjbNBYlgoCjC3Ttw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/ubuntu/v20/4iCv6KVjbNBYlgoCxCvTtw.ttf
+File Name: C:\Downloaded Web Sites\urban-grill.ru\s\ubuntu\v20\4iCv6KVjbNBYlgoCxCvTtw.ttf
+Content Type: font/ttf
+
+Uri: https://fs.me/pr/init.js
+File Name: C:\Downloaded Web Sites\urban-grill.ru\pr\init.js
+Content Type: application/javascript
+
+Uri: https://neo.tildacdn.com/js/tilda-fallback-1.0.min.js
+File Name: C:\Downloaded Web Sites\urban-grill.ru\js\tilda-fallback-1.0.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.com/css/tilda-animation-2.0.min.css
+File Name: C:\Downloaded Web Sites\urban-grill.ru\css\tilda-animation-2.0.min.css
+Content Type: text/css
+
+Uri: https://static.tildacdn.com/css/tilda-cart-1.0.min.css
+File Name: C:\Downloaded Web Sites\urban-grill.ru\css\tilda-cart-1.0.min.css
+Content Type: text/css
+
+Uri: https://static.tildacdn.com/css/tilda-catalog-1.1.min.css
+File Name: C:\Downloaded Web Sites\urban-grill.ru\css\tilda-catalog-1.1.min.css
+Content Type: text/css
+
+Uri: https://static.tildacdn.com/css/tilda-cover-1.0.min.css
+File Name: C:\Downloaded Web Sites\urban-grill.ru\css\tilda-cover-1.0.min.css
+Content Type: text/css
+
+Uri: https://static.tildacdn.com/css/tilda-forms-1.0.min.css
+File Name: C:\Downloaded Web Sites\urban-grill.ru\css\tilda-forms-1.0.min.css
+Content Type: text/css
+
+Uri: https://static.tildacdn.com/css/tilda-grid-3.0.min.css
+File Name: C:\Downloaded Web Sites\urban-grill.ru\css\tilda-grid-3.0.min.css
+Content Type: text/css
+
+Uri: https://static.tildacdn.com/css/tilda-popup-1.1.min.css
+File Name: C:\Downloaded Web Sites\urban-grill.ru\css\tilda-popup-1.1.min.css
+Content Type: text/css
+
+Uri: https://static.tildacdn.com/css/tilda-slds-1.4.min.css
+File Name: C:\Downloaded Web Sites\urban-grill.ru\css\tilda-slds-1.4.min.css
+Content Type: text/css
+
+Uri: https://static.tildacdn.com/css/tilda-zoom-2.0.min.css
+File Name: C:\Downloaded Web Sites\urban-grill.ru\css\tilda-zoom-2.0.min.css
+Content Type: text/css
+
+Uri: https://static.tildacdn.com/img/tildacopy.png
+File Name: C:\Downloaded Web Sites\urban-grill.ru\img\tildacopy.png
+Content Type: image/png
+
+Uri: https://static.tildacdn.com/img/tildafavicon.ico
+File Name: C:\Downloaded Web Sites\urban-grill.ru\img\tildafavicon.ico
+Content Type: image/x-icon
+
+Uri: https://static.tildacdn.com/js/hammer.min.js
+File Name: C:\Downloaded Web Sites\urban-grill.ru\js\hammer.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.com/js/jquery-1.10.2.min.js
+File Name: C:\Downloaded Web Sites\urban-grill.ru\js\jquery-1.10.2.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.com/js/tilda-animation-2.0.min.js
+File Name: C:\Downloaded Web Sites\urban-grill.ru\js\tilda-animation-2.0.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.com/js/tilda-cart-1.0.min.js
+File Name: C:\Downloaded Web Sites\urban-grill.ru\js\tilda-cart-1.0.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.com/js/tilda-catalog-1.1.min.js
+File Name: C:\Downloaded Web Sites\urban-grill.ru\js\tilda-catalog-1.1.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.com/js/tilda-cover-1.0.min.js
+File Name: C:\Downloaded Web Sites\urban-grill.ru\js\tilda-cover-1.0.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.com/js/tilda-events-1.0.min.js
+File Name: C:\Downloaded Web Sites\urban-grill.ru\js\tilda-events-1.0.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.com/js/tilda-forms-1.0.min.js
+File Name: C:\Downloaded Web Sites\urban-grill.ru\js\tilda-forms-1.0.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.com/js/tilda-lazyload-1.0.min.js
+File Name: C:\Downloaded Web Sites\urban-grill.ru\js\tilda-lazyload-1.0.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.com/js/tilda-menu-1.0.min.js
+File Name: C:\Downloaded Web Sites\urban-grill.ru\js\tilda-menu-1.0.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.com/js/tilda-polyfill-1.0.min.js
+File Name: C:\Downloaded Web Sites\urban-grill.ru\js\tilda-polyfill-1.0.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.com/js/tilda-products-1.0.min.js
+File Name: C:\Downloaded Web Sites\urban-grill.ru\js\tilda-products-1.0.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.com/js/tilda-promocode-1.0.min.js
+File Name: C:\Downloaded Web Sites\urban-grill.ru\js\tilda-promocode-1.0.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.com/js/tilda-scripts-3.0.min.js
+File Name: C:\Downloaded Web Sites\urban-grill.ru\js\tilda-scripts-3.0.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.com/js/tilda-skiplink-1.0.min.js
+File Name: C:\Downloaded Web Sites\urban-grill.ru\js\tilda-skiplink-1.0.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.com/js/tilda-slds-1.4.min.js
+File Name: C:\Downloaded Web Sites\urban-grill.ru\js\tilda-slds-1.4.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.com/js/tilda-zoom-2.0.min.js
+File Name: C:\Downloaded Web Sites\urban-grill.ru\js\tilda-zoom-2.0.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.com/tild3236-3635-4234-b061-336361633565/-/resizeb/20x/f73h4rvczr0xm07w747f.jpg
+File Name: C:\Downloaded Web Sites\urban-grill.ru\tild3236-3635-4234-b061-336361633565\-\resizeb\20x\f73h4rvczr0xm07w747f.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild3265-3563-4565-b733-303332663362/D2.svg
+File Name: C:\Downloaded Web Sites\urban-grill.ru\tild3265-3563-4565-b733-303332663362\D2.svg
+Content Type: image/svg+xml
+
+Uri: https://static.tildacdn.com/tild3338-6235-4462-b632-613562303535/-/resizeb/20x/VRmedia_-_20180923_-.jpg
+File Name: C:\Downloaded Web Sites\urban-grill.ru\tild3338-6235-4462-b632-613562303535\-\resizeb\20x\VRmedia_-_20180923_-.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild3364-3164-4035-b233-373462326330/D4.svg
+File Name: C:\Downloaded Web Sites\urban-grill.ru\tild3364-3164-4035-b233-373462326330\D4.svg
+Content Type: image/svg+xml
+
+Uri: https://static.tildacdn.com/tild3531-3539-4361-a465-356530633832/D1.svg
+File Name: C:\Downloaded Web Sites\urban-grill.ru\tild3531-3539-4361-a465-356530633832\D1.svg
+Content Type: image/svg+xml
+
+Uri: https://static.tildacdn.com/tild3761-3864-4635-b337-613537393734/-/resizeb/20x/fd846069-98ab-436f-b.jpg
+File Name: C:\Downloaded Web Sites\urban-grill.ru\tild3761-3864-4635-b337-613537393734\-\resizeb\20x\fd846069-98ab-436f-b.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild3761-6230-4434-a465-613866646437/-/resizeb/20x/6p1lhsxszznaeldqttw2.jpg
+File Name: C:\Downloaded Web Sites\urban-grill.ru\tild3761-6230-4434-a465-613866646437\-\resizeb\20x\6p1lhsxszznaeldqttw2.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild3761-6236-4636-b538-353234396264/-/resizeb/20x/pitevaya_voda_aqua_m.jpeg
+File Name: C:\Downloaded Web Sites\urban-grill.ru\tild3761-6236-4636-b538-353234396264\-\resizeb\20x\pitevaya_voda_aqua_m.jpeg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild3865-3962-4933-b232-636636316333/-/resizeb/20x/6efe7c5a-840c-0d05-2.png
+File Name: C:\Downloaded Web Sites\urban-grill.ru\tild3865-3962-4933-b232-636636316333\-\resizeb\20x\6efe7c5a-840c-0d05-2.png
+Content Type: image/png
+
+Uri: https://static.tildacdn.com/tild3933-6536-4332-a634-653862363162/-/resizeb/20x/photo.jpg
+File Name: C:\Downloaded Web Sites\urban-grill.ru\tild3933-6536-4332-a634-653862363162\-\resizeb\20x\photo.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild6330-3964-4438-a338-326535633462/-/resizeb/20x/3_.jpg
+File Name: C:\Downloaded Web Sites\urban-grill.ru\tild6330-3964-4438-a338-326535633462\-\resizeb\20x\3_.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild6632-3339-4866-b138-373839306433/-/resizeb/20x/photo.jpg
+File Name: C:\Downloaded Web Sites\urban-grill.ru\tild6632-3339-4866-b138-373839306433\-\resizeb\20x\photo.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/ws/project3106777/tilda-blocks-page14507169.min.css?t=1717752413
+File Name: C:\Downloaded Web Sites\urban-grill.ru\ws\project3106777\tilda-blocks-page14507169.min.css
+Content Type: text/css
+
+Uri: https://static.tildacdn.com/ws/project3106777/tilda-blocks-page14507169.min.js?t=1717752413
+File Name: C:\Downloaded Web Sites\urban-grill.ru\ws\project3106777\tilda-blocks-page14507169.min.js
+Content Type: application/javascript
+
+Uri: https://thb.tildacdn.com/tild3062-3866-4932-b466-653363323964/-/resizeb/20x/photo.jpg
+File Name: C:\Downloaded Web Sites\urban-grill.ru\tild3062-3866-4932-b466-653363323964\-\resizeb\20x\photo.jpg
+Content Type: image/jpeg
+
+Uri: https://thb.tildacdn.com/tild3062-6334-4461-b763-393762633634/-/resizeb/20x/IMG_1466.jpg
+File Name: C:\Downloaded Web Sites\urban-grill.ru\tild3062-6334-4461-b763-393762633634\-\resizeb\20x\IMG_1466.jpg
+Content Type: image/jpeg
+
+Uri: https://thb.tildacdn.com/tild3064-3862-4663-b163-346534633265/-/resizeb/20x/c06ab0af-7db8-de97-e.png
+File Name: C:\Downloaded Web Sites\urban-grill.ru\tild3064-3862-4663-b163-346534633265\-\resizeb\20x\c06ab0af-7db8-de97-e.png
+Content Type: image/png
+
+Uri: https://thb.tildacdn.com/tild3066-6137-4537-b266-626636623437/-/resizeb/20x/lr7x0FZAhss.jpg
+File Name: C:\Downloaded Web Sites\urban-grill.ru\tild3066-6137-4537-b266-626636623437\-\resizeb\20x\lr7x0FZAhss.jpg
+Content Type: image/jpeg
+
+Uri: https://thb.tildacdn.com/tild3135-3866-4433-b036-393262343233/-/resizeb/20x/3152970.jpg
+File Name: C:\Downloaded Web Sites\urban-grill.ru\tild3135-3866-4433-b036-393262343233\-\resizeb\20x\3152970.jpg
+Content Type: image/jpeg
+
+Uri: https://thb.tildacdn.com/tild3139-3336-4939-b066-316433323166/-/resizeb/20x/photo.jpg
+File Name: C:\Downloaded Web Sites\urban-grill.ru\tild3139-3336-4939-b066-316433323166\-\resizeb\20x\photo.jpg
+Content Type: image/jpeg
+
+Uri: https://thb.tildacdn.com/tild3139-6263-4065-a561-386662326363/-/resizeb/20x/__.jpg
+File Name: C:\Downloaded Web Sites\urban-grill.ru\tild3139-6263-4065-a561-386662326363\-\resizeb\20x\__.jpg
+Content Type: image/jpeg
+
+Uri: https://thb.tildacdn.com/tild3163-6563-4032-b165-393433306564/-/resizeb/20x/photo_2023-04-30_21-.jpg
+File Name: C:\Downloaded Web Sites\urban-grill.ru\tild3163-6563-4032-b165-393433306564\-\resizeb\20x\photo_2023-04-30_21-.jpg
+Content Type: image/jpeg
+
+Uri: https://thb.tildacdn.com/tild3164-6462-4164-a334-633437396231/-/resizeb/20x/___.jpg
+File Name: C:\Downloaded Web Sites\urban-grill.ru\tild3164-6462-4164-a334-633437396231\-\resizeb\20x\___.jpg
+Content Type: image/jpeg
+
+Uri: https://thb.tildacdn.com/tild3231-6162-4935-a234-386633633837/-/resizeb/20x/AHI_434d503231353033.jpg
+File Name: C:\Downloaded Web Sites\urban-grill.ru\tild3231-6162-4935-a234-386633633837\-\resizeb\20x\AHI_434d503231353033.jpg
+Content Type: image/jpeg
+
+Uri: https://thb.tildacdn.com/tild3232-3733-4265-a534-643766386433/-/resizeb/20x/3b2fb8cba1e74c69a2d8.jpg
+File Name: C:\Downloaded Web Sites\urban-grill.ru\tild3232-3733-4265-a534-643766386433\-\resizeb\20x\3b2fb8cba1e74c69a2d8.jpg
+Content Type: image/jpeg
+
+Uri: https://thb.tildacdn.com/tild3235-3466-4663-b530-376231663037/-/resizeb/20x/MQzBumGb--w.jpg
+File Name: C:\Downloaded Web Sites\urban-grill.ru\tild3235-3466-4663-b530-376231663037\-\resizeb\20x\MQzBumGb--w.jpg
+Content Type: image/jpeg
+
+Uri: https://thb.tildacdn.com/tild3238-6261-4463-b438-663030346465/-/resizeb/20x/-.jpg
+File Name: C:\Downloaded Web Sites\urban-grill.ru\tild3238-6261-4463-b438-663030346465\-\resizeb\20x\-.jpg
+Content Type: image/jpeg
+
+Uri: https://thb.tildacdn.com/tild3239-3031-4235-b365-666465376430/-/resizeb/20x/noroot.jpg
+File Name: C:\Downloaded Web Sites\urban-grill.ru\tild3239-3031-4235-b365-666465376430\-\resizeb\20x\noroot.jpg
+Content Type: image/jpeg
+
+Uri: https://thb.tildacdn.com/tild3262-6263-4364-b732-303431326431/-/resizeb/20x/1.jpg
+File Name: C:\Downloaded Web Sites\urban-grill.ru\tild3262-6263-4364-b732-303431326431\-\resizeb\20x\1.jpg
+Content Type: image/jpeg
+
+Uri: https://thb.tildacdn.com/tild3266-6232-4639-b231-643338326265/-/resizeb/20x/_2.jpg
+File Name: C:\Downloaded Web Sites\urban-grill.ru\tild3266-6232-4639-b231-643338326265\-\resizeb\20x\_2.jpg
+Content Type: image/jpeg
+
+Uri: https://thb.tildacdn.com/tild3266-6639-4865-a438-313461376630/-/resizeb/20x/__.jpg
+File Name: C:\Downloaded Web Sites\urban-grill.ru\tild3266-6639-4865-a438-313461376630\-\resizeb\20x\__.jpg
+Content Type: image/jpeg
+
+Uri: https://thb.tildacdn.com/tild3331-6434-4166-b566-656562386234/-/resizeb/20x/photo.jpg
+File Name: C:\Downloaded Web Sites\urban-grill.ru\tild3331-6434-4166-b566-656562386234\-\resizeb\20x\photo.jpg
+Content Type: image/jpeg
+
+Uri: https://thb.tildacdn.com/tild3333-6330-4765-a465-633037376463/-/resizeb/20x/photo.jpg
+File Name: C:\Downloaded Web Sites\urban-grill.ru\tild3333-6330-4765-a465-633037376463\-\resizeb\20x\photo.jpg
+Content Type: image/jpeg
+
+Uri: https://thb.tildacdn.com/tild3334-3961-4666-b932-653539613762/-/resizeb/20x/__.jpg
+File Name: C:\Downloaded Web Sites\urban-grill.ru\tild3334-3961-4666-b932-653539613762\-\resizeb\20x\__.jpg
+Content Type: image/jpeg
+
+Uri: https://thb.tildacdn.com/tild3339-3030-4939-a634-656366333364/-/resizeb/20x/1.jpg
+File Name: C:\Downloaded Web Sites\urban-grill.ru\tild3339-3030-4939-a634-656366333364\-\resizeb\20x\1.jpg
+Content Type: image/jpeg
+
+Uri: https://thb.tildacdn.com/tild3361-6463-4138-a137-316638346664/-/resizeb/20x/512514_1595412784351.jpg
+File Name: C:\Downloaded Web Sites\urban-grill.ru\tild3361-6463-4138-a137-316638346664\-\resizeb\20x\512514_1595412784351.jpg
+Content Type: image/jpeg
+
+Uri: https://thb.tildacdn.com/tild3363-3138-4030-a238-646437643035/-/resizeb/20x/___.jpg
+File Name: C:\Downloaded Web Sites\urban-grill.ru\tild3363-3138-4030-a238-646437643035\-\resizeb\20x\___.jpg
+Content Type: image/jpeg
+
+Uri: https://thb.tildacdn.com/tild3366-6166-4665-b631-373962633964/-/resizeb/20x/22ab65a3e2b0465da912.jpg
+File Name: C:\Downloaded Web Sites\urban-grill.ru\tild3366-6166-4665-b631-373962633964\-\resizeb\20x\22ab65a3e2b0465da912.jpg
+Content Type: image/jpeg
+
+Uri: https://thb.tildacdn.com/tild3434-3831-4936-b962-333735303663/-/resizeb/20x/photo.jpg
+File Name: C:\Downloaded Web Sites\urban-grill.ru\tild3434-3831-4936-b962-333735303663\-\resizeb\20x\photo.jpg
+Content Type: image/jpeg
+
+Uri: https://thb.tildacdn.com/tild3438-6262-4665-b537-643361353037/-/resizeb/20x/photo.jpg
+File Name: C:\Downloaded Web Sites\urban-grill.ru\tild3438-6262-4665-b537-643361353037\-\resizeb\20x\photo.jpg
+Content Type: image/jpeg
+
+Uri: https://thb.tildacdn.com/tild3461-3462-4031-a663-343333313134/-/resizeb/20x/1666180046_56-mykale.jpg
+File Name: C:\Downloaded Web Sites\urban-grill.ru\tild3461-3462-4031-a663-343333313134\-\resizeb\20x\1666180046_56-mykale.jpg
+Content Type: image/jpeg
+
+Uri: https://thb.tildacdn.com/tild3463-3861-4066-a231-326230393662/-/resizeb/20x/photo.jpg
+File Name: C:\Downloaded Web Sites\urban-grill.ru\tild3463-3861-4066-a231-326230393662\-\resizeb\20x\photo.jpg
+Content Type: image/jpeg
+
+Uri: https://thb.tildacdn.com/tild3538-6132-4236-b862-396238653531/-/resizeb/20x/photo.jpg
+File Name: C:\Downloaded Web Sites\urban-grill.ru\tild3538-6132-4236-b862-396238653531\-\resizeb\20x\photo.jpg
+Content Type: image/jpeg
+
+Uri: https://thb.tildacdn.com/tild3563-3532-4337-a264-643765396235/-/resizeb/20x/_.png
+File Name: C:\Downloaded Web Sites\urban-grill.ru\tild3563-3532-4337-a264-643765396235\-\resizeb\20x\_.png
+Content Type: image/png
+
+Uri: https://thb.tildacdn.com/tild3563-3838-4939-a235-343234326239/-/resizeb/20x/Chicken_Nuggets.jpg
+File Name: C:\Downloaded Web Sites\urban-grill.ru\tild3563-3838-4939-a235-343234326239\-\resizeb\20x\Chicken_Nuggets.jpg
+Content Type: image/jpeg
+
+Uri: https://thb.tildacdn.com/tild3565-3066-4337-b236-616336363866/-/resizeb/20x/KAtzbgoKSAQ.jpg
+File Name: C:\Downloaded Web Sites\urban-grill.ru\tild3565-3066-4337-b236-616336363866\-\resizeb\20x\KAtzbgoKSAQ.jpg
+Content Type: image/jpeg
+
+Uri: https://thb.tildacdn.com/tild3632-3735-4363-a434-373165343830/-/resizeb/20x/RN015961.jpg
+File Name: C:\Downloaded Web Sites\urban-grill.ru\tild3632-3735-4363-a434-373165343830\-\resizeb\20x\RN015961.jpg
+Content Type: image/jpeg
+
+Uri: https://thb.tildacdn.com/tild3632-6235-4762-b835-393530666536/-/resizeb/20x/photo.jpg
+File Name: C:\Downloaded Web Sites\urban-grill.ru\tild3632-6235-4762-b835-393530666536\-\resizeb\20x\photo.jpg
+Content Type: image/jpeg
+
+Uri: https://thb.tildacdn.com/tild3633-3864-4833-b865-616436326363/-/resizeb/20x/c06ab0af-7db8-de97-e.png
+File Name: C:\Downloaded Web Sites\urban-grill.ru\tild3633-3864-4833-b865-616436326363\-\resizeb\20x\c06ab0af-7db8-de97-e.png
+Content Type: image/png
+
+Uri: https://thb.tildacdn.com/tild3635-6161-4061-b532-303838666564/-/resizeb/20x/1.jpg
+File Name: C:\Downloaded Web Sites\urban-grill.ru\tild3635-6161-4061-b532-303838666564\-\resizeb\20x\1.jpg
+Content Type: image/jpeg
+
+Uri: https://thb.tildacdn.com/tild3637-3166-4764-a435-396164333639/-/resizeb/20x/3.jpg
+File Name: C:\Downloaded Web Sites\urban-grill.ru\tild3637-3166-4764-a435-396164333639\-\resizeb\20x\3.jpg
+Content Type: image/jpeg
+
+Uri: https://thb.tildacdn.com/tild3637-6138-4566-b337-663362313831/-/resizeb/20x/scale-1200.jpg
+File Name: C:\Downloaded Web Sites\urban-grill.ru\tild3637-6138-4566-b337-663362313831\-\resizeb\20x\scale-1200.jpg
+Content Type: image/jpeg
+
+Uri: https://thb.tildacdn.com/tild3639-3734-4337-a366-306561653739/-/resizeb/20x/photo.jpg
+File Name: C:\Downloaded Web Sites\urban-grill.ru\tild3639-3734-4337-a366-306561653739\-\resizeb\20x\photo.jpg
+Content Type: image/jpeg
+
+Uri: https://thb.tildacdn.com/tild3663-3363-4035-b366-316635313639/-/resizeb/20x/__.jpg
+File Name: C:\Downloaded Web Sites\urban-grill.ru\tild3663-3363-4035-b366-316635313639\-\resizeb\20x\__.jpg
+Content Type: image/jpeg
+
+Uri: https://thb.tildacdn.com/tild3664-3530-4733-b038-373638353963/-/resizeb/20x/2.jpg
+File Name: C:\Downloaded Web Sites\urban-grill.ru\tild3664-3530-4733-b038-373638353963\-\resizeb\20x\2.jpg
+Content Type: image/jpeg
+
+Uri: https://thb.tildacdn.com/tild3664-3964-4338-b762-363266353039/-/resizeb/20x/--600x400.jpg
+File Name: C:\Downloaded Web Sites\urban-grill.ru\tild3664-3964-4338-b762-363266353039\-\resizeb\20x\--600x400.jpg
+Content Type: image/jpeg
+
+Uri: https://thb.tildacdn.com/tild3730-3566-4366-b832-346266623631/-/resizeb/20x/_.jpg
+File Name: C:\Downloaded Web Sites\urban-grill.ru\tild3730-3566-4366-b832-346266623631\-\resizeb\20x\_.jpg
+Content Type: image/jpeg
+
+Uri: https://thb.tildacdn.com/tild3737-3136-4334-a633-303336663133/-/resizeb/20x/shaurma-s-kuricey-bi.jpg
+File Name: C:\Downloaded Web Sites\urban-grill.ru\tild3737-3136-4334-a633-303336663133\-\resizeb\20x\shaurma-s-kuricey-bi.jpg
+Content Type: image/jpeg
+
+Uri: https://thb.tildacdn.com/tild3738-3333-4063-a263-316365663831/-/resizeb/20x/photo.jpg
+File Name: C:\Downloaded Web Sites\urban-grill.ru\tild3738-3333-4063-a263-316365663831\-\resizeb\20x\photo.jpg
+Content Type: image/jpeg
+
+Uri: https://thb.tildacdn.com/tild3833-6136-4365-b230-616234303438/-/resizeb/20x/2840a97474316c6c656d.jpg
+File Name: C:\Downloaded Web Sites\urban-grill.ru\tild3833-6136-4365-b230-616234303438\-\resizeb\20x\2840a97474316c6c656d.jpg
+Content Type: image/jpeg
+
+Uri: https://thb.tildacdn.com/tild3861-6161-4733-a235-313263373734/-/resizeb/20x/4.jpg
+File Name: C:\Downloaded Web Sites\urban-grill.ru\tild3861-6161-4733-a235-313263373734\-\resizeb\20x\4.jpg
+Content Type: image/jpeg
+
+Uri: https://thb.tildacdn.com/tild3861-6164-4666-a165-653935633031/-/resizeb/20x/__.jpg
+File Name: C:\Downloaded Web Sites\urban-grill.ru\tild3861-6164-4666-a165-653935633031\-\resizeb\20x\__.jpg
+Content Type: image/jpeg
+
+Uri: https://thb.tildacdn.com/tild3865-3838-4539-b530-323534663266/-/resizeb/20x/photo.jpg
+File Name: C:\Downloaded Web Sites\urban-grill.ru\tild3865-3838-4539-b530-323534663266\-\resizeb\20x\photo.jpg
+Content Type: image/jpeg
+
+Uri: https://thb.tildacdn.com/tild3932-3039-4362-a133-636532373761/-/resizeb/20x/photo_2023-10-17_05-.jpg
+File Name: C:\Downloaded Web Sites\urban-grill.ru\tild3932-3039-4362-a133-636532373761\-\resizeb\20x\photo_2023-10-17_05-.jpg
+Content Type: image/jpeg
+
+Uri: https://thb.tildacdn.com/tild3936-3466-4265-b135-626630616331/-/resizeb/20x/kukuruza-na-grile-im.jpg
+File Name: C:\Downloaded Web Sites\urban-grill.ru\tild3936-3466-4265-b135-626630616331\-\resizeb\20x\kukuruza-na-grile-im.jpg
+Content Type: image/jpeg
+
+Uri: https://thb.tildacdn.com/tild3937-3361-4263-a261-303537396336/-/resizeb/20x/_________.jpg
+File Name: C:\Downloaded Web Sites\urban-grill.ru\tild3937-3361-4263-a261-303537396336\-\resizeb\20x\_________.jpg
+Content Type: image/jpeg
+
+Uri: https://thb.tildacdn.com/tild3939-3165-4538-a262-626363396366/-/resizeb/20x/2a6b4ffc762e38638bb7.jpg
+File Name: C:\Downloaded Web Sites\urban-grill.ru\tild3939-3165-4538-a262-626363396366\-\resizeb\20x\2a6b4ffc762e38638bb7.jpg
+Content Type: image/jpeg
+
+Uri: https://thb.tildacdn.com/tild3966-6566-4339-a339-373766323535/-/resizeb/20x/__.jpg
+File Name: C:\Downloaded Web Sites\urban-grill.ru\tild3966-6566-4339-a339-373766323535\-\resizeb\20x\__.jpg
+Content Type: image/jpeg
+
+Uri: https://thb.tildacdn.com/tild6130-3039-4537-a462-316430393230/-/resizeb/20x/__.jpg
+File Name: C:\Downloaded Web Sites\urban-grill.ru\tild6130-3039-4537-a462-316430393230\-\resizeb\20x\__.jpg
+Content Type: image/jpeg
+
+Uri: https://thb.tildacdn.com/tild6136-3766-4031-b962-313461316435/-/resizeb/20x/_2.jpg
+File Name: C:\Downloaded Web Sites\urban-grill.ru\tild6136-3766-4031-b962-313461316435\-\resizeb\20x\_2.jpg
+Content Type: image/jpeg
+
+Uri: https://thb.tildacdn.com/tild6162-6334-4466-a336-666138343631/-/resizeb/20x/__.jpg
+File Name: C:\Downloaded Web Sites\urban-grill.ru\tild6162-6334-4466-a336-666138343631\-\resizeb\20x\__.jpg
+Content Type: image/jpeg
+
+Uri: https://thb.tildacdn.com/tild6232-3733-4434-b334-376265343661/-/resizeb/20x/1.jpg
+File Name: C:\Downloaded Web Sites\urban-grill.ru\tild6232-3733-4434-b334-376265343661\-\resizeb\20x\1.jpg
+Content Type: image/jpeg
+
+Uri: https://thb.tildacdn.com/tild6233-3830-4764-b836-353536646537/-/resizeb/20x/__.jpg
+File Name: C:\Downloaded Web Sites\urban-grill.ru\tild6233-3830-4764-b836-353536646537\-\resizeb\20x\__.jpg
+Content Type: image/jpeg
+
+Uri: https://thb.tildacdn.com/tild6234-6630-4639-b831-653039353334/-/resizeb/20x/__.jpg
+File Name: C:\Downloaded Web Sites\urban-grill.ru\tild6234-6630-4639-b831-653039353334\-\resizeb\20x\__.jpg
+Content Type: image/jpeg
+
+Uri: https://thb.tildacdn.com/tild6237-3363-4432-b965-666139333962/-/resizeb/20x/photo.jpg
+File Name: C:\Downloaded Web Sites\urban-grill.ru\tild6237-3363-4432-b965-666139333962\-\resizeb\20x\photo.jpg
+Content Type: image/jpeg
+
+Uri: https://thb.tildacdn.com/tild6238-3462-4031-a431-373130383864/-/resizeb/20x/photo.jpg
+File Name: C:\Downloaded Web Sites\urban-grill.ru\tild6238-3462-4031-a431-373130383864\-\resizeb\20x\photo.jpg
+Content Type: image/jpeg
+
+Uri: https://thb.tildacdn.com/tild6261-6534-4733-a236-383133633732/-/resizeb/20x/photo.jpg
+File Name: C:\Downloaded Web Sites\urban-grill.ru\tild6261-6534-4733-a236-383133633732\-\resizeb\20x\photo.jpg
+Content Type: image/jpeg
+
+Uri: https://thb.tildacdn.com/tild6265-3938-4332-a565-313666363263/-/resize/20x/vrmedia-141.jpg
+File Name: C:\Downloaded Web Sites\urban-grill.ru\tild6265-3938-4332-a565-313666363263\-\resize\20x\vrmedia-141.jpg
+Content Type: image/jpeg
+
+Uri: https://thb.tildacdn.com/tild6332-3833-4365-b331-663232363962/-/resizeb/20x/2840a97474316c6c656d.jpg
+File Name: C:\Downloaded Web Sites\urban-grill.ru\tild6332-3833-4365-b331-663232363962\-\resizeb\20x\2840a97474316c6c656d.jpg
+Content Type: image/jpeg
+
+Uri: https://thb.tildacdn.com/tild6335-3836-4162-b232-666438666130/-/resizeb/20x/photo.jpg
+File Name: C:\Downloaded Web Sites\urban-grill.ru\tild6335-3836-4162-b232-666438666130\-\resizeb\20x\photo.jpg
+Content Type: image/jpeg
+
+Uri: https://thb.tildacdn.com/tild6366-3038-4634-b238-303165303438/-/resizeb/20x/33977.jpg
+File Name: C:\Downloaded Web Sites\urban-grill.ru\tild6366-3038-4634-b238-303165303438\-\resizeb\20x\33977.jpg
+Content Type: image/jpeg
+
+Uri: https://thb.tildacdn.com/tild6432-3636-4138-b738-323331396339/-/resizeb/20x/photo.jpg
+File Name: C:\Downloaded Web Sites\urban-grill.ru\tild6432-3636-4138-b738-323331396339\-\resizeb\20x\photo.jpg
+Content Type: image/jpeg
+
+Uri: https://thb.tildacdn.com/tild6433-3634-4733-b230-333462386638/-/resizeb/20x/__.jpg
+File Name: C:\Downloaded Web Sites\urban-grill.ru\tild6433-3634-4733-b230-333462386638\-\resizeb\20x\__.jpg
+Content Type: image/jpeg
+
+Uri: https://thb.tildacdn.com/tild6461-6164-4235-b532-633832376232/-/resizeb/20x/photo.jpg
+File Name: C:\Downloaded Web Sites\urban-grill.ru\tild6461-6164-4235-b532-633832376232\-\resizeb\20x\photo.jpg
+Content Type: image/jpeg
+
+Uri: https://thb.tildacdn.com/tild6464-3439-4263-b937-323239646463/-/resizeb/20x/88418ab95faf357cfbe8.jpg
+File Name: C:\Downloaded Web Sites\urban-grill.ru\tild6464-3439-4263-b937-323239646463\-\resizeb\20x\88418ab95faf357cfbe8.jpg
+Content Type: image/jpeg
+
+Uri: https://thb.tildacdn.com/tild6466-3462-4233-a161-333737373831/-/resizeb/20x/photo_2023-05-01_02-.jpg
+File Name: C:\Downloaded Web Sites\urban-grill.ru\tild6466-3462-4233-a161-333737373831\-\resizeb\20x\photo_2023-05-01_02-.jpg
+Content Type: image/jpeg
+
+Uri: https://thb.tildacdn.com/tild6532-3666-4564-a638-653034373666/-/resizeb/20x/photo.jpg
+File Name: C:\Downloaded Web Sites\urban-grill.ru\tild6532-3666-4564-a638-653034373666\-\resizeb\20x\photo.jpg
+Content Type: image/jpeg
+
+Uri: https://thb.tildacdn.com/tild6533-3430-4263-b234-383531643461/-/resizeb/20x/_heinz.jpg
+File Name: C:\Downloaded Web Sites\urban-grill.ru\tild6533-3430-4263-b234-383531643461\-\resizeb\20x\_heinz.jpg
+Content Type: image/jpeg
+
+Uri: https://thb.tildacdn.com/tild6535-3261-4666-b637-356665333030/-/resizeb/20x/photo.jpg
+File Name: C:\Downloaded Web Sites\urban-grill.ru\tild6535-3261-4666-b637-356665333030\-\resizeb\20x\photo.jpg
+Content Type: image/jpeg
+
+Uri: https://thb.tildacdn.com/tild6566-6461-4463-b435-363663643337/-/resizeb/20x/197ce615d3834bca8e8e.jpg
+File Name: C:\Downloaded Web Sites\urban-grill.ru\tild6566-6461-4463-b435-363663643337\-\resizeb\20x\197ce615d3834bca8e8e.jpg
+Content Type: image/jpeg
+
+Uri: https://thb.tildacdn.com/tild6630-3430-4139-b865-343939636436/-/resizeb/20x/photo.jpg
+File Name: C:\Downloaded Web Sites\urban-grill.ru\tild6630-3430-4139-b865-343939636436\-\resizeb\20x\photo.jpg
+Content Type: image/jpeg
+
+Uri: https://thb.tildacdn.com/tild6631-3537-4564-a237-323666373533/-/resizeb/20x/_____.jpg
+File Name: C:\Downloaded Web Sites\urban-grill.ru\tild6631-3537-4564-a237-323666373533\-\resizeb\20x\_____.jpg
+Content Type: image/jpeg
+
+Uri: https://thb.tildacdn.com/tild6636-3262-4664-a131-383637396365/-/resizeb/20x/__.jpg
+File Name: C:\Downloaded Web Sites\urban-grill.ru\tild6636-3262-4664-a131-383637396365\-\resizeb\20x\__.jpg
+Content Type: image/jpeg
+
+Uri: https://thb.tildacdn.com/tild6637-3231-4835-b234-626561333930/-/resizeb/20x/1.jpg
+File Name: C:\Downloaded Web Sites\urban-grill.ru\tild6637-3231-4835-b234-626561333930\-\resizeb\20x\1.jpg
+Content Type: image/jpeg
+
+Uri: https://thb.tildacdn.com/tild6661-3734-4436-a437-653633383430/-/resizeb/20x/photo.jpg
+File Name: C:\Downloaded Web Sites\urban-grill.ru\tild6661-3734-4436-a437-653633383430\-\resizeb\20x\photo.jpg
+Content Type: image/jpeg
+
+Uri: https://thb.tildacdn.com/tild6663-3138-4630-a533-313937313535/-/resizeb/20x/122926.jpg
+File Name: C:\Downloaded Web Sites\urban-grill.ru\tild6663-3138-4630-a533-313937313535\-\resizeb\20x\122926.jpg
+Content Type: image/jpeg
+
+Uri: https://thb.tildacdn.com/tild6664-3465-4631-a162-393761303030/-/resizeb/20x/_1.jpg
+File Name: C:\Downloaded Web Sites\urban-grill.ru\tild6664-3465-4631-a162-393761303030\-\resizeb\20x\_1.jpg
+Content Type: image/jpeg
+
+Uri: https://thb.tildacdn.com/tild6665-3565-4231-b337-666262376235/-/resizeb/20x/_.jpg
+File Name: C:\Downloaded Web Sites\urban-grill.ru\tild6665-3565-4231-b337-666262376235\-\resizeb\20x\_.jpg
+Content Type: image/jpeg
+
